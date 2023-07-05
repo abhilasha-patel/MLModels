@@ -1,1 +1,1 @@
-# MLModels
+Its always good to go back to the basics and refresh machine learning concepts. I did a machine learning course where I learnt the mathematical concepts and practical implementation of regression, classification,and clustering alogorithms. This repository has the code snippets of linear, logistic, svm, decision tree, random forest, naive bayes, k means, hierarchial models.
